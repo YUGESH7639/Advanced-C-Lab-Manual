@@ -104,6 +104,8 @@ temp->next=n;
 
 # Output:
 
+<img width="1153" height="544" alt="image" src="https://github.com/user-attachments/assets/128bba0b-9166-4797-ad6f-b40d1420b439" />
+
 
 # Result:
 Thus, the program to insert a node in a linked list is verified successfully.
@@ -143,6 +145,8 @@ void display()
 ```
 
 # Output:
+
+<img width="1176" height="530" alt="image" src="https://github.com/user-attachments/assets/023fc1d3-72c5-4beb-a14e-33c60f4f3692" />
 
 
 # Result:
@@ -202,6 +206,8 @@ else
 
 # Output:
 
+<img width="1171" height="559" alt="image" src="https://github.com/user-attachments/assets/e15fde8f-deb3-4614-8a80-e6b703899782" />
+
 
 # Result:
 Thus, the program to insert an element in doubly linked list is verified successfully.
@@ -260,6 +266,8 @@ void delete()
 ```
 
 # Output:
+
+<img width="1179" height="789" alt="image" src="https://github.com/user-attachments/assets/25493d0f-71cb-4052-9c66-b3b5f7e98e2e" />
 
 
 # Result:
